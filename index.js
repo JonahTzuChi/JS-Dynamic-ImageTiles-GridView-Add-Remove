@@ -1,7 +1,8 @@
 function HTTPGetData(urlStr, callback = undefined) {
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", urlStr, true);
-    rawFile.setRequestHeader("Content-type", "application/json");
+    //rawFile.setRequestHeader("Content-type", "image/jpeg");
+    //rawFile.setRequestHeader("Content-type", "application/json");
     rawFile.onreadystatechange = function () {
         if (rawFile.readyState === 4) {
             ret = rawFile.responseText;
