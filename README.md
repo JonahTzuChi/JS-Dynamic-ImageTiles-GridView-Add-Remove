@@ -1,7 +1,7 @@
 # JS-Dynamically-Add-ImageTiles-To-Grid
-I only use the most fundamental HTML-JS-CSS method. #noframework
+I only use the most fundamental HTML-JS-CSS method. #vanilla
 
-I don't hate framework, I just want to practice without them and make this code easy to ready for beginner.
+I don't hate frameworks and plugins, I just want to practice without them and make this code easy to ready for beginner.
 
 # Public API
 Great thanks to the owner of this public api, I get to test my code with read data. 
